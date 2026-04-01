@@ -1,6 +1,6 @@
 {
   "Version": "1.0.0",
-  "DownloadUrl": "https://github.com/Lukmon40/surveyprime-updates/releases/download/v.1/SurveyPrime.msi",
+  "DownloadUrl": "https://github.com/Lukmon40/surveyprime-updates/releases/download/v1p/SurveyPrime.msi",
   "ReleaseNotes": "- Initial release\n- Bug fixes",
   "ForceUpdate": false,
   "Checksum": ""
